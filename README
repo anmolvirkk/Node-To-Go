@@ -1,0 +1,3 @@
+Prompt used to convert node_test to go_test
+
+use the node_test folder as a reference and create a whole new project inside a folder called go_test which has the same functionality as node_test but it's written in go lang
